@@ -197,14 +197,14 @@ class House extends StatelessWidget {
           children: [
             Icon(
               icon,
-              color: Colors.grey, // Light blue icon color
+              color: Colors.grey, // grey icon color
               size: 28,
             ),
             const SizedBox(height: 5),
             Text(
               label,
               style: const TextStyle(
-                color: Colors.grey, // Light blue text color
+                color: Colors.grey, // grey text color
                 fontWeight: FontWeight.bold,
                 fontSize: 12,
               ),
