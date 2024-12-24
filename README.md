@@ -56,4 +56,5 @@ The app can be extended to use MVVM for better separation of UI and logic.
 https://github.com/RANIAZULFIQAR/Travelling_app_project/blob/main/BEST.png?raw=true
 
 **LINK OF VIDEO:**
-https://github.com/RANIAZULFIQAR/Travelling_app_project/blob/main/WhatsApp%20Video%202024-12-24%20at%2014.13.37.mp4
+[Uploading WhatsApp Video 2024-12-24 at 14.13.37.webm…]()
+
