@@ -51,8 +51,9 @@ The app follows a Widget Tree Structure for UI building, which is part of the de
 Stateless Widgets: For static content.
 Stateful Widgets: (If interactive features like forms are added in the future).
 The app can be extended to use MVVM for better separation of UI and logic.
-
 **MOCKUPS:**
+
+
 <img width="299" alt="BEST" src="https://github.com/user-attachments/assets/fa897000-e967-4ad6-8e21-8ea7ca5ead00" />
 
 
