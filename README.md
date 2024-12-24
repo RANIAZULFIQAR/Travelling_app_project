@@ -52,3 +52,5 @@ Stateless Widgets: For static content.
 Stateful Widgets: (If interactive features like forms are added in the future).
 The app can be extended to use MVVM for better separation of UI and logic.
 
+**MOCKUPS:**
+https://github.com/RANIAZULFIQAR/Travelling_app_project/blob/main/BEST.png?raw=true
