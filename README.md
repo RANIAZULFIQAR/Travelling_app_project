@@ -54,3 +54,6 @@ The app can be extended to use MVVM for better separation of UI and logic.
 
 **MOCKUPS:**
 https://github.com/RANIAZULFIQAR/Travelling_app_project/blob/main/BEST.png?raw=true
+
+**LINK OF VIDEO:**
+
